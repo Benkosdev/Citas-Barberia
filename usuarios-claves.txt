@@ -1,0 +1,11 @@
+ administrador:
+usuario--> admin
+clave--> 123
+
+cliente:
+usuario--> juan22
+clave --->123
+
+barberos:
+usuario-->osorio
+clave--->123
